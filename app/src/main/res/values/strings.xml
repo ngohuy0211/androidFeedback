@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">RateApplication</string>
+<string name="resNameError">Enter a valid Restaurant Name</string>
+<string name="resTypeError">Enter a valid Restaurant Type</string>
+<string name="resHotlineError">Enter a valid Hotline</string>
+<string name="resAddressError">Enter a valid Address</string>
+<string name="resDateError">Enter a valid DateTime</string>
+<string name="resReporterError">Enter a valid Name of Reporter</string>
+</resources>
